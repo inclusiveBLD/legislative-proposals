@@ -19,4 +19,3 @@ The primary goals of this repository are:
 ## 📁 Repository Structure
 
 This repository is organized into directories, with each main directory representing a broad category of proposals. Within each category, you'll find individual proposal folders.
-
