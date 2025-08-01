@@ -36,5 +36,5 @@ AWARE THAT, revamping this institution aligns with the Federal Government's "Ren
 **I so move.**  
 
 **HON. DICKSON YUSUF CHOLLOM**  
-Member Representing Barkin Ladi State Constituency  
+Member, Representing Barkin Ladi State Constituency  
 
