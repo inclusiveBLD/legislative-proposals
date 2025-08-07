@@ -12,7 +12,7 @@ HON. KWARPO SYLVERNUS
 HON. ELI BAKO ANKALA
 HON. MARK SUNDAY NA’AH
 
-===== PAGE 2 =====
+===== PAGE 2 =====<br>
 **ARRANGEMENT OF SECTIONS**
 
 **PART I – PRELIMINARY**
@@ -49,7 +49,7 @@ HON. MARK SUNDAY NA’AH
 19. Regulations
 20. Repeal and Savings
 
-===== PAGE 3 =====
+===== PAGE 3 =====<br>
 A BILL  
 FOR  
 A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM SUPPORT AGENCY...  
@@ -82,7 +82,7 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | **Regulation of CVNs**    | 8   | (1) Legal recognition of CVNs.<br>(2) Agency shall:<br>&nbsp;&nbsp;&nbsp;a. Train/vet/certify members<br>&nbsp;&nbsp;&nbsp;b. Enforce rules of engagement<br>&nbsp;&nbsp;&nbsp;c. Maintain member register. |
 | **Role of Traditional Institutions** | 9 | Traditional rulers shall:<br>(a) Serve as peace custodians<br>(b) Participate in CSCs/conflict resolution<br>(c) Arbitrate minor disputes. |
 
-===== PAGE 6 =====
+===== PAGE 6 =====<br>
 **PART IV – EARLY WARNING AND RESPONSE**  
 
 | Clause Title              | No. | Content                                                                 |
@@ -98,7 +98,7 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | **Incentive Programs**    | 13  | (a) Financial: Monthly stipends<br>(b) Recognition: Annual peace awards<br>(c) Developmental: Priority for State projects<br>(d) Integration: CVN pathways to formal security. |
 | **Capacity Building**     | 14  | Mandatory training on:<br>&nbsp;&nbsp;&nbsp;a. Human rights/conflict sensitivity<br>&nbsp;&nbsp;&nbsp;b. Intelligence/first aid<br>&nbsp;&nbsp;&nbsp;c. Context-specific security. |
 
-===== PAGE 7 =====
+===== PAGE 7 =====<br>
 **PART VI – VICTIM SUPPORT**  
 
 | Clause Title              | No. | Content                                                                 |
@@ -115,7 +115,7 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | **Regulations**           | 19  | Governor may issue implementation regulations.                          |
 | **Repeal and Savings**    | 20  | (1) Repeals inconsistent laws<br>(2) Preserves actions under repealed laws. |
 
-===== FINAL PAGE =====
+===== FINAL PAGE =====<br>
 **SPONSOR:**  
 HON. DICKSON YUSUF CHOLLOM  
 (MEMBER REPRESENTING BARKIN LADI CONSTITUENCY)  
