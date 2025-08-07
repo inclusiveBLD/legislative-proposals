@@ -1,4 +1,3 @@
-
 ===== PAGE 1 =====
 ## A BILL
 ## FOR
@@ -62,7 +61,7 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | Clause Title              | No. | Content                                                                 |
 |---------------------------|-----|-------------------------------------------------------------------------|
 | **Short Title and Commencement** | 1 | (1) Cited as **Plateau State Community Security, Resilience and Victim Support Agency Law, 2025**.<br>(2) Effective date set by Governor via Gazette notice. |
-| **Purpose and Objectives** | 2 | To:<br>(a) Establish legal framework for community-led security<br>(b) Formalize early warning/response systems<br>(c) Provide incentives for community participation<br>(d) Ensure coordinated action<br>(e) Establish victim support frameworks<br>(f) Foster peace and trust. |
+| **Purpose and Objectives** | 2 | The purposes and objectives are to:<br>(a) Establish legal framework for community-led security<br>(b) Formalize early warning/response systems<br>(c) Provide incentives for community participation<br>(d) Ensure coordinated action<br>(e) Establish victim support frameworks<br>(f) Foster peace and trust. |
 | **Interpretation**        | 3   | **"Agency"**: PSCSRA;<br>**"CSC"**: Community Security Committee;<br>**"CVN"**: Community Vigilante Network;<br>**"Farmland Protection"**: Safeguarding crops/livestock;<br>**"Victim"**: Persons harmed by killings/displacement;<br>**"Traditional Institution"**: Recognized emirs/chiefs/elders. |
 
 ===== PAGE 4 =====
@@ -71,15 +70,15 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | Clause Title              | No. | Content                                                                 |
 |---------------------------|-----|-------------------------------------------------------------------------|
 | **Establishment of the Agency** | 4 | (1) Establishes **Plateau State Community Security, Resilience and Victim Support Agency (PSCSRA)**.<br>(2) Body corporate with perpetual succession. |
-| **Functions of the Agency** | 5 | (a) Formulate community security policies<br>(b) Coordinate initiatives<br>(c) Train/regulate CSCs/CVNs<br>(d) Facilitate intelligence sharing<br>(e) Manage Fund<br>(f) Provide incentives<br>(g) Oversee victim programs. |
-| **Composition and Governance** | 6 | (1) Governing Board includes:<br>&nbsp;&nbsp;&nbsp;a. State MDAs representatives<br>&nbsp;&nbsp;&nbsp;b. Traditional Council<br>&nbsp;&nbsp;&nbsp;c. Security agencies<br>&nbsp;&nbsp;&nbsp;d. Civil society<br>&nbsp;&nbsp;&nbsp;e. Community leaders<br>&nbsp;&nbsp;&nbsp;f. Retired security personnel<br>&nbsp;&nbsp;&nbsp;g. Security law expert<br>(2) Executive Secretary as CEO. |
+| **Functions of the Agency** | 5 | The Agency shall:<br>(a) Formulate community security policies<br>(b) Coordinate initiatives<br>(c) Train/regulate CSCs/CVNs<br>(d) Facilitate intelligence sharing<br>(e) Manage Fund<br>(f) Provide incentives<br>(g) Oversee victim programs. |
+| **Composition and Governance** | 6 | (1) Governing Board comprises:<br>&nbsp;&nbsp;&nbsp;a. State MDAs representatives<br>&nbsp;&nbsp;&nbsp;b. Traditional Council<br>&nbsp;&nbsp;&nbsp;c. Security agencies<br>&nbsp;&nbsp;&nbsp;d. Civil society<br>&nbsp;&nbsp;&nbsp;e. Community leaders<br>&nbsp;&nbsp;&nbsp;f. Retired security personnel<br>&nbsp;&nbsp;&nbsp;g. Security law expert<br>(2) Executive Secretary as CEO. |
 
 ===== PAGE 5 =====
 **PART III – COMMUNITY SECURITY STRUCTURES**  
 
 | Clause Title              | No. | Content                                                                 |
 |---------------------------|-----|-------------------------------------------------------------------------|
-| **Establishment of CSCs** | 7   | (1) CSCs established in every community/ward.<br>(2) **Composition**:<br>&nbsp;&nbsp;&nbsp;- Traditional ruler (Chair)<br>&nbsp;&nbsp;&nbsp;- Youth/women/faith leaders<br>&nbsp;&nbsp;&nbsp;- Farmers' reps<br>&nbsp;&nbsp;&nbsp;- Security liaisons<br>(3) **Functions**:<br>&nbsp;&nbsp;&nbsp;• Intelligence gathering<br>&nbsp;&nbsp;&nbsp;• Conflict mediation<br>&nbsp;&nbsp;&nbsp;• Threat identification. |
+| **Establishment of CSCs** | 7   | (1) CSCs established in every community/ward.<br>(2) Composition:<br>&nbsp;&nbsp;&nbsp;a. Traditional ruler (Chair)<br>&nbsp;&nbsp;&nbsp;b. Youth leader<br>&nbsp;&nbsp;&nbsp;c. Women leader<br>&nbsp;&nbsp;&nbsp;d. Faith leaders<br>&nbsp;&nbsp;&nbsp;e. Farmers' representatives<br>&nbsp;&nbsp;&nbsp;f. Security agency liaisons<br>(3) Functions:<br>&nbsp;&nbsp;&nbsp;a. Intelligence gathering<br>&nbsp;&nbsp;&nbsp;b. Conflict mediation<br>&nbsp;&nbsp;&nbsp;c. Threat identification. |
 | **Regulation of CVNs**    | 8   | (1) Legal recognition of CVNs.<br>(2) Agency shall:<br>&nbsp;&nbsp;&nbsp;a. Train/vet/certify members<br>&nbsp;&nbsp;&nbsp;b. Enforce rules of engagement<br>&nbsp;&nbsp;&nbsp;c. Maintain member register. |
 | **Role of Traditional Institutions** | 9 | Traditional rulers shall:<br>(a) Serve as peace custodians<br>(b) Participate in CSCs/conflict resolution<br>(c) Arbitrate minor disputes. |
 
@@ -95,8 +94,8 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 
 | Clause Title              | No. | Content                                                                 |
 |---------------------------|-----|-------------------------------------------------------------------------|
-| **Community Security Fund** | 12 | (1) Fund managed by Agency.<br>(2) **Sources**:<br>&nbsp;&nbsp;&nbsp;a. State budget<br>&nbsp;&nbsp;&nbsp;b. Grants/donations<br>(3) **Uses**:<br>&nbsp;&nbsp;&nbsp;a. CSC/CVN stipends<br>&nbsp;&nbsp;&nbsp;b. Security equipment<br>&nbsp;&nbsp;&nbsp;c. Victim compensation. |
-| **Incentive Programs**    | 13  | (a) **Financial**: Monthly stipends<br>(b) **Recognition**: Annual peace awards<br>(c) **Developmental**: Priority for State projects<br>(d) **Integration**: CVN pathways to formal security. |
+| **Community Security Fund** | 12 | (1) Fund managed by Agency.<br>(2) Sources:<br>&nbsp;&nbsp;&nbsp;a. State budget<br>&nbsp;&nbsp;&nbsp;b. Grants/donations<br>(3) Uses:<br>&nbsp;&nbsp;&nbsp;a. CSC/CVN stipends<br>&nbsp;&nbsp;&nbsp;b. Security equipment<br>&nbsp;&nbsp;&nbsp;c. Victim compensation. |
+| **Incentive Programs**    | 13  | (a) Financial: Monthly stipends<br>(b) Recognition: Annual peace awards<br>(c) Developmental: Priority for State projects<br>(d) Integration: CVN pathways to formal security. |
 | **Capacity Building**     | 14  | Mandatory training on:<br>&nbsp;&nbsp;&nbsp;a. Human rights/conflict sensitivity<br>&nbsp;&nbsp;&nbsp;b. Intelligence/first aid<br>&nbsp;&nbsp;&nbsp;c. Context-specific security. |
 
 ===== PAGE 7 =====
@@ -116,7 +115,7 @@ A LAW TO ESTABLISH THE PLATEAU STATE COMMUNITY SECURITY, RESILIENCE AND VICTIM S
 | **Regulations**           | 19  | Governor may issue implementation regulations.                          |
 | **Repeal and Savings**    | 20  | (1) Repeals inconsistent laws<br>(2) Preserves actions under repealed laws. |
 
-===== FINAL PAGE =====<br><br>
+===== FINAL PAGE =====
 **SPONSOR:**  
 HON. DICKSON YUSUF CHOLLOM  
 (MEMBER REPRESENTING BARKIN LADI CONSTITUENCY)  
