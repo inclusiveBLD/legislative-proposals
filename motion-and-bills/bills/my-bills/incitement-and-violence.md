@@ -1,198 +1,211 @@
-## **A BILL FOR**  
-**A LAW TO PROHIBIT INCITEMENT TO VIOLENCE AND DISCRIMINATION, PROMOTE PEACE AND TOLERANCE, AND ESTABLISH THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION, AND FOR OTHER RELATED MATTERS, 2025**  
+## A BILL
+## FOR
+## A LAW TO PROHIBIT INCITEMENT TO VIOLENCE AND DISCRIMINATION, PROMOTE PEACE AND TOLERANCE, AND ESTABLISH THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION, AND FOR OTHER RELATED MATTERS, 2025
 
-**SPONSOR:**  
-HONOURABLE DICKSON YUSUF CHOLLOM  
-(MEMBER REPRESENTING BARKIN LADI CONSTITUENCY)  
+SPONSOR:
+Hon. Dickson Yusuf Chollom.
+Member Representing Barkin Ladi Constituency
 
----
 
-### **ARRANGEMENT OF SECTIONS**  
+**ARRANGEMENT OF SECTIONS**
+
+**PART I – PRELIMINARY**
+1. Short Title and Commencement
+2. Purpose and Objectives
+3. Interpretation
+
+**PART II – PROHIBITION OF INCITEMENT TO VIOLENCE AND DISCRIMINATION**
+4. Prohibition of Hate Speech
+5. Prohibition of Incitement to Violence or Discrimination
+6. Prohibition of Active Promotion of Violent Extremism
+7. Aggravated Offences by Public Figures and Persons in Authority
+8. Use of Platforms for Prohibited Acts
+
+**PART III – ESTABLISHMENT OF THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION (PSPTC)**
+9. Establishment of the Commission
+10. Functions of the Commission
+11. Composition and Governance of the Commission
+12. Powers of the Commission
+13. Accountability and Oversight of the Commission
+
+**PART IV – INVESTIGATION, PROOF, AND PENALTIES**
+14. Reporting and Investigation of Offences
+15. Means of Proving Offences
+16. Penalties for Hate Speech
+17. Penalties for Incitement to Violence or Discrimination
+18. Penalties for Active Promotion of Violent Extremism
+19. Penalties for Aggravated Offences
+20. Mandatory Peace Education and Rehabilitation
+21. Compensation and Restitution
+
+**PART V – PROMOTION OF PEACE AND TOLERANCE**
+22. Public Awareness and Education
+23. Inter-Faith and Inter-Communal Dialogue
+24. Collaboration with Educational Institutions
+
+
+**PART VI – MISCELLANEOUS PROVISIONS**
+25. Constitutional Safeguards
+26. Jurisdiction of Courts
+27. Power to Make Regulations
+28. Harmonization with Federal Laws
+29. Repeal and Savings
+
+A BILL  
+FOR  
+A LAW TO PROHIBIT INCITEMENT TO VIOLENCE AND DISCRIMINATION, PROMOTE PEACE AND TOLERANCE, AND ESTABLISH THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION, AND FOR OTHER RELATED MATTERS, 2025  
+
+**ENACTED by the Plateau State House of Assembly as follows:**  
+
 **PART I – PRELIMINARY**  
-1. Short Title and Commencement  
-2. Purpose and Objectives  
-3. Interpretation  
 
-**PART II – PROHIBITION OF INCITEMENT TO VIOLENCE AND DISCRIMINATION**  
-4. Prohibition of Hate Speech  
-5. Prohibition of Incitement to Violence or Discrimination  
-6. Prohibition of Radicalization  
-7. Aggravated Offences by Public Figures and Persons in Authority  
-8. Use of Platforms for Hate Speech and Radicalization  
+| Short Title and Commencement | 1 | This Law may be cited as the Plateau State Peace and Tolerance (Prohibition of Incitement to Violence and Discrimination) Law, 2025. |
+|---|---|---|
+|    |    | (2) It shall come into force on such date as the Governor may, by notice in the State Gazette, appoint. |
+| Purpose and Objectives | 2 | The purposes and objectives of this Law are to: |
+|    |    | (a) Safeguard the peace, unity, and harmony of Plateau State... |
+|    |    | (b) Prohibit and penalize expressions and actions... |
+|    |    | (c) Promote mutual respect, understanding... |
+|    |    | (d) Establish an institutional framework... |
+|    |    | (e) Provide for rehabilitation... |
+|    |    | (f) Uphold and protect fundamental human rights... |
 
-**PART III – ESTABLISHMENT OF THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION (PSTPC)**  
-9. Establishment of the Commission  
-10. Functions of the Commission  
-11. Composition and Governance of the Commission  
-12. Powers of the Commission  
 
-**PART IV – INVESTIGATION, PROOF, AND PENALTIES**  
-13. Reporting and Investigation of Offences  
-14. Means of Proving Offences  
-15. Penalties for Hate Speech  
-16. Penalties for Incitement to Violence or Discrimination  
-17. Penalties for Radicalization  
-18. Penalties for Aggravated Offences  
-19. Mandatory Peace Education and Rehabilitation  
-20. Compensation and Restitution  
+| Interpretation | 3 | In this Law unless the context otherwise requires: |
+|---|---|---|
+|    |    | **"Commission"** means the Plateau State Peace and Tolerance Commission established under this Law; |
+|    |    | **"Discrimination"** means any distinction... |
+|    |    | **"Hate Speech"** means expressions... |
+|    |    | **"Public Figure or Person in Authority"** means... |
+|    |    | **"Active Promotion of Violent Extremism"** means... |
+|    |    | **"State"** means Plateau State of Nigeria; |
+|    |    | **"Youth"** means persons aged 18-35 years... |
 
-**PART V – PROMOTION OF PEACE AND TOLERANCE**  
-21. Public Awareness and Education  
-22. Inter-Faith and Inter-Communal Dialogue  
-23. Collaboration with Educational Institutions  
 
-**PART VI – MISCELLANEOUS PROVISIONS**  
-24. Constitutional Safeguards  
-25. Jurisdiction of Courts  
-26. Power to Make Regulations  
-27. Repeal and Savings  
+**PART II – PROHIBITION OF INCITEMENT TO VIOLENCE AND DISCRIMINATION**
 
----
+| Prohibition of Hate Speech | 4 | 1. No person shall utter, publish, or disseminate hate speech. |
+|---|---|---|
+|    |    | 2. For the purposes of subsection 1, hate speech includes content that: |
+|    |    | &nbsp;&nbsp;&nbsp;a. Promotes violence against identifiable groups... |
+|    |    | &nbsp;&nbsp;&nbsp;b. Advocates discrimination... |
+|    |    | &nbsp;&nbsp;&nbsp;c. Directly and explicitly uses language... |
 
-### **ENACTED by the Plateau State House of Assembly as follows:**  
+| Prohibition of Incitement... | 5 | 1. No person shall directly incite violence... |
+|---|---|---|
+|    |    | 2. Incitement may be inferred... |
 
-#### **PART I – PRELIMINARY**  
-**1. Short Title and Commencement**  
-(1) This Law may be cited as the **Plateau State Peace and Tolerance (Prohibition of Incitement to Violence and Discrimination) Law, 2025**.  
-(2) It shall come into force on such date as the Governor may, by notice in the State Gazette, appoint.  
+| Prohibition of Active Promotion... | 6 | 1. No person shall actively promote... |
+|---|---|---|
+|    |    | 2. This includes... |
 
-**2. Purpose and Objectives**  
-The purposes and objectives of this Law are to:  
-(a) Safeguard the peace, unity, and harmony of Plateau State;  
-(b) Prohibit and penalize hate speech, incitement to violence, discrimination, and radicalization;  
-(c) Promote mutual respect and peaceful coexistence among all citizens;  
-(d) Establish an institutional framework for prevention, investigation, and prosecution of offences;  
-(e) Provide rehabilitation and mandatory peace education for offenders;  
-(f) Strengthen the security and welfare of the people as the primary purpose of government.  
+| Aggravated Offences... | 7 | 1. Offences under Sections 4, 5, or 6... |
+|---|---|---|
+|    |    | 2. Such aggravated offences shall attract higher penalties... |
 
-**3. Interpretation**  
-In this Law, unless the context otherwise requires:  
-> *"Commission"* means the Plateau State Peace and Tolerance Commission;  
-> *"Discrimination"* means distinctions based on religion, ethnicity, etc., impairing human rights;  
-> *"Hate Speech"* means expressions advocating hatred or inciting violence against identifiable groups;  
-> *"Public Figure or Person in Authority"* includes religious leaders, traditional rulers, media personalities, etc.;  
-> *"Radicalization"* means adopting extremist ideologies justifying violence or terrorism;  
-> *"State"* means Plateau State of Nigeria;  
-> *"Youth"* means persons aged 15–35 years.  
 
----
+| Use of Platforms... | 8 | 1. No person shall use religious institutions... |
+|---|---|---|
+|    |    | 2. Administrators of such platforms must take... |
 
-#### **PART II – PROHIBITION OF INCITEMENT TO VIOLENCE AND DISCRIMINATION**  
-**4. Prohibition of Hate Speech**  
-(1) No person shall utter, publish, or disseminate hate speech.  
-(2) Includes content that:  
-> (a) Promotes violence against identifiable groups;  
-> (b) Advocates discrimination or persecution;  
-> (c) Uses derogatory or inflammatory language.  
+**PART III – ESTABLISHMENT OF THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION (PSPTC)**
 
-**5. Prohibition of Incitement to Violence or Discrimination**  
-(1) No person shall incite violence or discrimination against groups based on religion, ethnicity, etc.  
-(2) Incitement may be inferred from context, content, and likely impact.  
+| Establishment of the Commission | 9 | 1. There is hereby established... **PSPTC**... |
+|---|---|---|
+|    |    | 2. The Commission shall be a body corporate... |
 
-**6. Prohibition of Radicalization**  
-(1) No person shall promote, facilitate, or engage in radicalization towards extremist ideologies.  
-(2) Includes indoctrination, recruitment, or training for violent purposes.  
+| Functions of the Commission | 10 | The functions of the Commission shall include: |
+|---|---|---|
+|    |    | (a) Monitoring and researching incidents... |
+|    |    | (b) Receiving and investigating complaints... |
+|    |    | (c) Referring investigated cases... |
+|    |    | (d) Implementing and overseeing... |
+|    |    | (e) Facilitating inter-faith... |
+|    |    | (f) Conducting public awareness campaigns... |
+|    |    | (g) Advising the State Government... |
 
-**7. Aggravated Offences by Public Figures and Persons in Authority**  
-(1) Offences under Sections 4–6 committed by public figures are aggravated.  
-(2) Attracts higher penalties reflecting their influence and responsibility.  
 
-**8. Use of Platforms for Hate Speech and Radicalization**  
-(1) Prohibits use of religious institutions, schools, media, social media, etc., for hate speech or radicalization.  
-(2) Platform administrators must take reasonable steps to prevent offences.  
+| Composition and Governance... | 11 | 1. The Commission shall consist of... |
+|---|---|---|
+|    |    | 2. The Chairperson and other members... |
+|    |    | 3. There shall be an Executive Secretary... |
 
----
+| Powers of the Commission | 12 | The Commission shall have the power to: |
+|---|---|---|
+|    |    | (a) Conduct inquiries... |
+|    |    | (b) Access public records... |
+|    |    | (c) Issue advisory or interpretive notes... |
+|    |    | (d) Collaborate with relevant government agencies... |
 
-#### **PART III – ESTABLISHMENT OF THE PLATEAU STATE PEACE AND TOLERANCE COMMISSION (PSTPC)**  
-**9. Establishment of the Commission**  
-(1) Establishes the **Plateau State Peace and Tolerance Commission (PSTPC)**.  
-(2) A body corporate with perpetual succession and a common seal.  
+| Accountability and Oversight... | 13 | 1. The Commission shall... submit... annual report... |
+|---|---|---|
+|    |    | 2. The accounts... audited annually... |
+|    |    | 3. The Commission shall establish... complaint mechanism... |
 
-**10. Functions of the Commission**  
-Includes:  
-> (a) Monitoring and investigating hate speech and radicalization;  
-> (b) Receiving and investigating complaints;  
-> (c) Referring cases for prosecution;  
-> (d) Implementing peace education programs;  
-> (e) Facilitating inter-faith dialogue.  
+**PART IV – INVESTIGATION, PROOF, AND PENALTIES**
 
-**11. Composition and Governance of the Commission**  
-(1) Chairperson and 6–9 members of proven integrity and expertise.  
-(2) Appointed by the Governor, subject to House confirmation, ensuring diverse representation.  
-(3) Executive Secretary as CEO for day-to-day administration.  
+| Reporting and Investigation... | 14 | 1. Any person may report... |
+|---|---|---|
+|    |    | 2. Upon receipt of a report... |
 
-**12. Powers of the Commission**  
-Includes power to:  
-> (a) Conduct inquiries and summon witnesses;  
-> (b) Access public records;  
-> (c) Issue guidelines for public discourse.  
 
----
+| Means of Proving Offences | 15 | Evidence for proving offences... may include: |
+|---|---|---|
+|    |    | (a) Audio and video recordings; |
+|    |    | (b) Transcripts, documents... |
+|    |    | (c) Witness testimonies; |
+|    |    | (d) Expert analysis... |
 
-#### **PART IV – INVESTIGATION, PROOF, AND PENALTIES**  
-**13. Reporting and Investigation of Offences**  
-(1) Reports to Commission or law enforcement.  
-(2) Prompt investigation required.  
+| Penalties for Hate Speech | 16 | ...imprisonment... not exceeding 3 years... fine not exceeding N1,000,000... |
 
-**14. Means of Proving Offences**  
-Evidence includes:  
-> (a) Audio/video recordings;  
-> (b) Transcripts, documents, digital content;  
-> (c) Witness testimonies;  
-> (d) Expert analysis.  
+| Penalties for Incitement... | 17 | ...imprisonment... not exceeding 7 years... fine not exceeding N3,000,000... |
 
-**15. Penalties for Hate Speech**  
-> Imprisonment ≤ 5 years or fine ≤ ₦2,000,000, or both.  
+| Penalties for Active Promotion... | 18 | ...imprisonment... not exceeding 10 years... fine not exceeding N5,000,000... |
 
-**16. Penalties for Incitement to Violence or Discrimination**  
-> Imprisonment ≤ 10 years or fine ≤ ₦5,000,000, or both.  
+| Penalties for Aggravated Offences | 19 | 1. Any Public Figure... aggravated offence... |
+|---|---|---|
+|    |    | 2. ...suspension or forfeiture... |
+|    |    | 3. ...imprisonment... not less than 10 years... |
 
-**17. Penalties for Radicalization**  
-> Imprisonment ≤ 15 years or fine ≤ ₦10,000,000, or both.  
 
-**18. Penalties for Aggravated Offences**  
-> (1) Double penalty for public figures.  
-> (2) Suspension/forfeiture of public office or title.  
-> (3) ≥ 20 years imprisonment for radicalizing youth.  
+| Mandatory Peace Education... | 20 | 1. ...order an offender to undergo... programs... |
+|---|---|---|
+|    |    | 2. Such programs shall focus on... |
 
-**19. Mandatory Peace Education and Rehabilitation**  
-> Court may order rehabilitation programs by the Commission.  
+| Compensation and Restitution | 21 | 1. ...order the offender to pay compensation... |
+|---|---|---|
+|    |    | 2. The amount of compensation... |
 
-**20. Compensation and Restitution**  
-> Offender may pay compensation for verifiable harm.  
+**PART V – PROMOTION OF PEACE AND TOLERANCE**
 
----
+| Public Awareness and Education | 22 | The Commission shall organize... |
+|---|---|---|
 
-#### **PART V – PROMOTION OF PEACE AND TOLERANCE**  
-**21. Public Awareness and Education**  
-> Commission to organize campaigns on peace and tolerance.  
+| Inter-Faith and Inter-Communal Dialogue | 23 | The Commission shall... facilitate... dialogue... |
+|---|---|---|
 
-**22. Inter-Faith and Inter-Communal Dialogue**  
-> Commission to facilitate dialogue between groups.  
+| Collaboration with Educational Institutions | 24 | The Commission shall collaborate... |
+|---|---|---|
 
-**23. Collaboration with Educational Institutions**  
-> Integrate peace education into school curricula.  
+**PART VI – MISCELLANEOUS PROVISIONS**
 
----
+| Constitutional Safeguards | 25 | 1. Nothing in this Law shall be construed... |
+|---|---|---|
+|    |    | 2. Any restriction on fundamental rights... |
 
-#### **PART VI – MISCELLANEOUS PROVISIONS**  
-**24. Constitutional Safeguards**  
-> (1) Does not abrogate freedom of expression (Constitution S.39).  
-> (2) Restrictions permissible for public order and rights of others (Constitution S.45).  
 
-**25. Jurisdiction of Courts**  
-> High Courts of Plateau State have exclusive jurisdiction.  
+| Jurisdiction of Courts | 26 | The High Courts of Plateau State shall have exclusive jurisdiction... |
+|---|---|---|
 
-**26. Power to Make Regulations**  
-> Governor may make regulations for implementation.  
+| Power to Make Regulations | 27 | The Governor may... make regulations... |
+|---|---|---|
 
-**27. Repeal and Savings**  
-> (1) Repeals inconsistent laws.  
-> (2) Savings for acts done under repealed laws.  
+| Harmonization with Federal Laws | 28 | This Law shall be interpreted... consistent with... Federal Law... |
+|---|---|---|
 
---- 
+| Repeal and Savings | 29 | 1. ...repealed to the extent of their inconsistency. |
+|---|---|---|
+|    |    | 2. ...anything done... under the repealed Law... |
 
-**SPONSOR:**  
-HONOURABLE DICKSON YUSUF CHOLLOM  
-(MEMBER REPRESENTING BARKIN LADI CONSTITUENCY)  
-
+SPONSOR: HON DICKSON YUSUF CHOLLOM
+(MEMBER REPRESENTING BARKIN LADI CONSTITUENCY)
